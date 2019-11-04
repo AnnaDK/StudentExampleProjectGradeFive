@@ -11,10 +11,35 @@ A live demo can be found [here](https://www.haleyschafer.com/).
 
 
 ## UX
-My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design. The greyscale color scheme was chosen to create a sleek and modern feel. 
 
-For employers, I wanted to provide them with a brief overview of myself and my capabilities via a user friendly design. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose. In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access. 
+### User stories
 
+As an employer I expect to see a showcase of Haley's work.
+
+As a recruiter I expect to see a showcase of Haley's resume.
+
+### Strategy
+My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
+
+### Scope
+For employers, I wanted to provide them with a brief overview of myself and my capabilities. This way, they would be able to get a glimpse of who I am, my background, work I've done, and my skills, with the option to contact me if they choose.
+
+### Structure
+In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
+
+### Skeleton
+[About wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.jpeg)
+
+[Contact wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/contact.jpeg)
+
+[Landing Page wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/landing.jpeg)
+
+[Skills wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/skills.jpeg)
+
+[Work wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/work.jpeg)
+
+### Surface
+The greyscale color scheme was chosen to create a sleek and modern feel.
 
 ## Technologies
 1. HTML
