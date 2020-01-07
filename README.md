@@ -16,7 +16,11 @@ A live demo can be found [here](https://www.haleyschafer.com/).
 
 As an employer I expect to see a showcase of Haley's work.
 
+![Work Showcase](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/assets/images/showcase.gif "Work Showcase")
+
 As a recruiter I expect to see a showcase of Haley's resume.
+
+![Resume](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/assets/images/showcase.gif "Resume")
 
 ### Strategy
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
@@ -28,15 +32,15 @@ For employers, I wanted to provide them with a brief overview of myself and my c
 In the 'Work/Travail' section, I wanted them to be able to quickly access work that I've done, providing a short summary of the project and main technologies with a link to each GitHub Repository and live demo. A link to my LinkedIn profile, my GitHub, and a downloadable PDF version of my CV were also provided for their ease of access.
 
 ### Skeleton
-[About wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.jpeg)
+[About wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/about.pdf)
 
-[Contact wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/contact.jpeg)
+[Contact wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/contact.png)
 
-[Landing Page wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/landing.jpeg)
+[Landing Page wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/landing.png)
 
 [Skills wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/skills.jpeg)
 
-[Work wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/work.jpeg)
+[Work wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/work.png)
 
 ### Surface
 The greyscale color scheme was chosen to create a sleek and modern feel.
