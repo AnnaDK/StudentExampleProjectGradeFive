@@ -16,11 +16,11 @@ A live demo can be found [here](https://www.haleyschafer.com/).
 
 As an employer I expect to see a showcase of Haley's work.
 
-![Work Showcase](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/assets/images/showcase.gif "Work Showcase")
+![Work Showcase](https://raw.githubusercontent.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/master/assets/images/showcase.png "Work Showcase")
 
 As a recruiter I expect to see a showcase of Haley's resume.
 
-![Resume](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/assets/images/showcase.gif "Resume")
+![Resume](https://raw.githubusercontent.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/master/assets/images/cv.png "Resume")
 
 ### Strategy
 My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist and user-friendly design.
@@ -36,7 +36,7 @@ In the 'Work/Travail' section, I wanted them to be able to quickly access work t
 
 [Contact wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/contact.png)
 
-[Landing Page wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/landing.png)
+[Landing Page wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/landing.jpeg)
 
 [Skills wireframe](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive/blob/master/wireframes/skills.jpeg)
 
